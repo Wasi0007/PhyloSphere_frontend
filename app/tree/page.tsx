@@ -105,7 +105,7 @@ export default function page() {
         });
       
     } else {
-        console.log('Please select both host and parasite files.');
+        console.log('Please select the host parasite file.');
     }
   };
 
